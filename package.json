@@ -1,12 +1,12 @@
 {
-  "name": "labelfromtitle",
+  "name": "issuetolabel",
   "version": "1.0.0",
   "description": "Assign an issue label based on a tagged title.",
   "author": "Y_Less <git@y-less.com> (open.mp)",
   "license": "ISC",
-  "repository": "https://github.com/Y-Less/labelfromtitle.git",
-  "homepage": "https://github.com/Y-Less/labelfromtitle",
-  "bugs": "https://github.com/Y-Less/labelfromtitle/issues",
+  "repository": "https://github.com/Y-Less/issuetolabel.git",
+  "homepage": "https://github.com/Y-Less/issuetolabel",
+  "bugs": "https://github.com/Y-Less/issuetolabel/issues",
   "keywords": [
     "probot",
     "github",
