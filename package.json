@@ -1,12 +1,12 @@
 {
-  "name": "issuetolabel",
+  "name": "open.mp-bot",
   "version": "1.0.0",
-  "description": "Assign an issue label based on a tagged title.",
+  "description": "Manage open.mp repositories.",
   "author": "Y_Less <git@y-less.com> (open.mp)",
   "license": "ISC",
-  "repository": "https://github.com/Y-Less/issuetolabel.git",
-  "homepage": "https://github.com/Y-Less/issuetolabel",
-  "bugs": "https://github.com/Y-Less/issuetolabel/issues",
+  "repository": "https://github.com/openmultiplayer/open.mp-bot.git",
+  "homepage": "https://git.io/open.mp",
+  "bugs": "https://github.com/openmultiplayer/open.mp-bot/issues",
   "keywords": [
     "probot",
     "github",

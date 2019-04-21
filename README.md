@@ -1,6 +1,9 @@
-# issuetolabel
+# open.mp-bot
 
-> A GitHub App built with [Probot](https://github.com/probot/probot) that assigns an issue label based on a tagged title.
+> A GitHub App built with [Probot](https://github.com/probot/probot) that manages open.mp repositories.  It can:
+
+* Auto-label issues based on a tagged name (`[Client]A bug`);
+* ...
 
 ## Use
 
@@ -28,7 +31,7 @@ npm start
 
 ## Contributing
 
-If you have suggestions for how issuetolabel could be improved, or want to report a bug, open an issue! We'd love all and any contributions.
+If you have suggestions for how open-mp could be improved, or want to report a bug, open an issue! We'd love all and any contributions.
 
 For more, check out the [Contributing Guide](CONTRIBUTING.md).
 
