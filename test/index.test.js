@@ -9,7 +9,7 @@ const bodyIn = {
     user: {
       login: 'someuser',
     },
-    title: '[CLIENT] [server] bug   ',
+    title: '[CLIENT] [serVER] bUg   ',
   },
   repository: {
     name: 'testing-things',
@@ -20,7 +20,7 @@ const bodyIn = {
 };
 
 const bodyOut = {
-  title: '[server] bug',
+  title: '[serVER] bUg',
   labels: [ 'Client' ],
 };
 
